@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29b7420d-8cca-4202-8341-34ce34977cda" name="Default" comment="Update database sql">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="29b7420d-8cca-4202-8341-34ce34977cda" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jdshop.iws" />
@@ -166,7 +165,11 @@
       <created>1397565802677</created>
       <updated>1397565802677</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tasks assigned">
+      <created>1397567148846</created>
+      <updated>1397567148846</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -204,7 +207,8 @@
     <MESSAGE value="Add CI Bootstrap framework" />
     <MESSAGE value="Update Bootstrap" />
     <MESSAGE value="Update database sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update database sql" />
+    <MESSAGE value="Tasks assigned" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks assigned" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

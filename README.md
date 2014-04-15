@@ -16,13 +16,13 @@ Team member: Jack, Jason, Lynn
 
 Task assign:
 
-Jack:
+Jack: Admin panel (admin login, admin management)
 
 
-Jason:
+Jason: Admin panel (product, category)
 
 
-Lynn:
+Lynn: Main page layout design
 
 
 

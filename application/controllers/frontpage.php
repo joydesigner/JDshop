@@ -3,7 +3,9 @@ class Frontpage extends Main_Controller {
 
    public function index()
 	{
+
       $this->load->view('include/header');
+      $this->load->view('templates/menubar.php');
       $this->load->view('frontpage');
       $this->load->view('include/footer');
 
